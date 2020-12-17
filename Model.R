@@ -1,7 +1,7 @@
 # ----------------------------------------------------------------------------------
 # FIT3164 Team 8
 # Code for the predictive model
-# Author: Xinyu Ma, Zhaofa Guo
+# Author: Xinyu Ma
 # Date: 22/10/2020
 
 # System: Windows 10
