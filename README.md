@@ -1,4 +1,4 @@
-## FIT3164 Data Science Project S2 2020
+## Data Science Project
 Machine learing application for predicting coronary heart disease
 
 Feature selection: boruta algorithm
