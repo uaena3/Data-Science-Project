@@ -1,5 +1,4 @@
 # ----------------------------------------------------------------------------------
-# FIT3164 Team 8
 # Code for the R shiny Website
 # Author: Xinyu Ma, Zhaofa Guo
 # Date: 22/10/2020
