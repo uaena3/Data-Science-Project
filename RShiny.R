@@ -1,6 +1,6 @@
 # ----------------------------------------------------------------------------------
 # Code for the R shiny Website
-# Author: Xinyu Ma, Zhaofa Guo
+# Author: Xinyu Ma
 # Date: 22/10/2020
 
 # System: macOS
